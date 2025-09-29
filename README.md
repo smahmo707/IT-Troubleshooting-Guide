@@ -1,10 +1,3 @@
-# IT Troubleshooting Guide
-
-Beginner-friendly guide to fixing common IT issues.  
-Created to demonstrate IT documentation and problem-solving skills.
-
----
-
 ## 🔹 1. Wi-Fi Not Connecting
 **Problem:** Device cannot connect to Wi-Fi  
 **Possible Causes:**  
